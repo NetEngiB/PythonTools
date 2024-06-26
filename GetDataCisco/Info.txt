@@ -1,0 +1,4 @@
+These scripts are determined to gather data for various things.
+Feel free to take and utilize these in our own scripts
+
+These scripts are designed for certain Cisco devices. If you find that your devices aren't functioning with these appropriately.
