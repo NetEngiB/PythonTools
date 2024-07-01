@@ -6,3 +6,4 @@ To run these scripts you'll need to install Python.
 Then, on your machine, figure out how to install these 3rd party tools:
 * netmiko
 * getpass
+* pandas
